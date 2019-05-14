@@ -63,7 +63,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\AnimatedTexture.cs" />
+    <Compile Include="Assets\Scripts\DestroyOffscreen.cs" />
+    <Compile Include="Assets\Scripts\InstantVelocity.cs" />
     <Compile Include="Assets\Scripts\PixelPerfectCamera.cs" />
+    <Compile Include="Assets\Scripts\Spawner.cs" />
     <Compile Include="Assets\Scripts\TiledBackground.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/Lheath9791/Documents/GitHub/Unity-practice/SuperZombieRunner/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
